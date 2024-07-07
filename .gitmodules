@@ -1,3 +1,6 @@
 [submodule "PRODIGY_CS_01"]
 	path = PRODIGY_CS_01
 	url = https://github.com/Deleted-id/PRODIGY_CS_01.git
+[submodule "PRODIGY_CS_02"]
+	path = PRODIGY_CS_02
+	url = https://github.com/Deleted-id/PRODIGY_CS_02.git
